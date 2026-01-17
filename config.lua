@@ -1,0 +1,155 @@
+Config = {
+    --  {
+    --      vehicle = "SPAWNCODE",                         -- Vehicle Spawn (SPAWNCODE)
+    --      coords = vector4(100.0, 200.0, 300.0, 0.0),    -- Vehicle Location (VECTOR 4)
+    --      rotation = {0.0, 0.0, 90.0},                   -- Vehicle Pitch (X,Y,Z) (Optional)
+    --      color = {255, 255, 255},                       -- Vehicle Color (RGB)
+    --      plate = "TEST1234"                             -- Vehicle Plate (MAX 8 CHARACTERS)
+    --  }
+    -----------------------------------------[ LOCATIONS ]--------------------------------------------------------
+        -- {
+        --     vehicle = "bati",
+        --     coords = vec4(-54.96, 67.79, 71.89, 90.0),
+        --     color = {210, 1, 3},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "shinobi",
+        --     coords = vec4(-56.12, 65.1, 71.89, 90.0),
+        --     color = {44, 155, 0},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "blazer4",
+        --     coords = vec4(-58.71, 62.37, 71.89, 105.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "reever",
+        --     coords = vec4(-62.01, 62.98, 71.89, 0.0),
+        --     color = {4, 64, 141},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "powersurge",
+        --     coords = vec4(-64.69, 64.48, 71.89, 0.0),
+        --     color = {247, 199, 8},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "nightblade",
+        --     coords = vec4(-70.79, 68.19, 71.89, 0.0),
+        --     color = {58, 0, 0},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "avarus",
+        --     coords = vec4(-74.09, 69.98, 71.89, 0.0),
+        --     color = {46, 10, 84},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sanctus",
+        --     coords = vec4(-77.26, 71.87, 71.89, 0.0),
+        --     color = {28, 28, 28},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "manchez3",
+        --     coords = vec4(-67.86, 76.09, 71.89, 240.0),
+        --     color = {255, 103, 1},
+        --     plate = " BUY ME "
+        -- },
+    -- Legendary Motorsport
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-608.76, -1097.21, 22.36, 225.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-614.6, -1098.22, 22.36, 225.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-614.61, -1105.34, 22.36, 315.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-608.5, -1107.49, 22.36, 225.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-608.4, -1114.93, 22.36, 315.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-614.62, -1116.89, 22.36, 225.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-614.54, -1124.02, 22.36, 315.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-608.39, -1126.34, 22.36, 225.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-608.4, -1133.57, 22.36, 315.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-616.11, -1138.53, 22.36, 180.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-610.98, -1147.73, 22.36, 315.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-608.12, -1150.56, 22.36, 315.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-605.45, -1153.3, 22.36, 315.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-596.55, -1157.0, 22.36, 45.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+        -- {
+        --     vehicle = "sheavas",
+        --     coords = vec4(-596.53, -1150.64, 22.36, 45.0),
+        --     color = {255, 255, 255},
+        --     plate = " BUY ME "
+        -- },
+}
