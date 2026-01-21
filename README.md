@@ -4,7 +4,7 @@
   <img alt="Shows the BM Scripts banner" src="https://i.ibb.co/qLqknnYd/BMScripts-Header.png">
 </picture>
 
-# 🚗 BM Vehicledisplay - QB/QBox Static vehicle spawn with custom colours and rotation
+# 🚗 BM Vehicle Display - QB/QBox Static vehicle spawn with custom colours and rotation
 
 A lightweight, reliable vehicle display system for FiveM.  
 Designed for dealerships, showrooms, garages, and static vehicle showcases.
