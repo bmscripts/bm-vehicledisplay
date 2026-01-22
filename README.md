@@ -256,3 +256,11 @@ Below is the full list of supported colour names and their corresponding GTA col
 | chrome | 120 |
 
 ---
+# License
+
+You may use and edit this script for personal or server use.
+
+If you reupload, redistribute, or share this script in any form, **attribution is required**.  
+You must credit the original author: **BM Scripts**.
+
+You may not claim this script as your own.
